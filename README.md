@@ -18,4 +18,20 @@ This project cleans raw applicant data, balances classes using **SMOTE**, trains
 3. **Balancing Dataset**  
    - Applies **SMOTE** to handle class imbalance in the Default column  
 
-4. **Model Training
+4. **Model Training**  
+   - Splits data into train/test sets  
+   - Trains a **Logistic Regression** classifier  
+
+5. **Evaluation**  
+   - Outputs classification report, confusion matrix, F1 Score, and Precision  
+
+---
+
+## ⚙️ Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/your-username/credit-risk-pipeline.git
+cd credit-risk-pipeline
+pip install -r requirements.txt
