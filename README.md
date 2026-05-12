@@ -32,6 +32,6 @@ This project cleans raw applicant data, balances classes using **SMOTE**, trains
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/credit-risk-pipeline.git
+git clone https://github.com/RishiNEGI2007/credit-risk-pipeline.git
 cd credit-risk-pipeline
 pip install -r requirements.txt
